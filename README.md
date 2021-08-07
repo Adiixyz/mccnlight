@@ -39,7 +39,7 @@
 ### Github Analytics ⚙️
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mccnlight&theme=radical&show_icons=true) 
-![Mccnlight](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnlight&hide=html,css&layout=compact&theme=radical)
+![Mccnlight](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnlight&hide=css&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccnlight&theme=monokai)
 
 ### Spotify Playing 🎧
