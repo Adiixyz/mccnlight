@@ -23,7 +23,6 @@
   <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
 </p>
 
 ### Development Environment 🍻
@@ -32,11 +31,15 @@
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
-### Github Static 
+### Github Analytics ⚙️
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mccnlight&theme=radical&show_icons=true) 
 ![Mccnlight](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnlight&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccnlight&theme=monokai)
+
+### Database 📂
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Spotify Playing 🎧
 
