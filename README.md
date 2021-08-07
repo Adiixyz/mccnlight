@@ -19,23 +19,21 @@
 ### Conhecimentos / Knowledges 🐾
 
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="css" src="https://img.shields.io/badge/CSS-443399?style=flat-square&logo=css3">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
+  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
 </p>
 
 ### Development Environment 🍻
 
 <p align="center">
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
 ### Database 📂
 
 <p align="center">
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
 ### Github Analytics ⚙️
