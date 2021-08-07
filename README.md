@@ -14,7 +14,7 @@
 
 - :globe_with_meridians: Indonesian · ~~English~~ (learning)
 - :alarm_clock: 6:00 - 24:30 「[Indonesia](https://time.is/Indonesia)」
-- :link: [megayaa.herokuapp.com](https://megayaa.herokuapp.com)
+- :link: [mccnlight.github.io](https://mccnlight.github.io)
 
 ### Conhecimentos / Knowledges 🐾
 
