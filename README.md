@@ -31,15 +31,17 @@
   <img alt="vscode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
+### Database 📂
+
+<p align="center">
+  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
 ### Github Analytics ⚙️
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mccnlight&theme=radical&show_icons=true) 
 ![Mccnlight](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnlight&hide=html&layout=compact&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccnlight&theme=monokai)
-
-### Database 📂
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Spotify Playing 🎧
 
