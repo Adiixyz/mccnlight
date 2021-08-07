@@ -10,7 +10,7 @@
 
 <img align="right" width="250px" src="https://img.nyakku.moe/profile/kinako.png" />
 
-This is Nyakku, this is just an ordinary cat from the Shigure family~
+这里是 Nyakku，只是时雨家一只普普通通的小猫猫～
 
 - :globe_with_meridians: Indonesian · ~~English~~ (learning)
 - :alarm_clock: 6:00 - 24:30 「[Indonesia](https://time.is/Indonesia)」
