@@ -3,7 +3,7 @@
 <p align="center">
   <a href="mailto:lintodamamiya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://open.spotify.com/user/6mkgzuc3l99a9wwr38nvz6pwp" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-  <a href="https://instagram.com/lindoww.8" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/lindoww.8" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
   <a href="https://t.me/lindoww8" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
 </p>
 
